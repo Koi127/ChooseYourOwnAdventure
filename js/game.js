@@ -21,7 +21,7 @@ var game = {
         },
 
         water: {
-            background_image: "fire.gif",
+            background_image: "water.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You saw a large river! There's some shinny objects in the river",
             choices: [
@@ -32,7 +32,7 @@ var game = {
             ]
         },
         underWater: {
-            background_image: "fire.gif",
+            background_image: "fish.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "A fish jump out of the river and drag you into the water",
             choices: [
@@ -47,7 +47,7 @@ var game = {
             ]
         },
         palace: {
-            background_image: "fire.gif",
+            background_image: "fishKing.png",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You entered a palace. The fish king want you to marry on of his children",
             choices: [
@@ -62,7 +62,7 @@ var game = {
             ]
         },
         wealth: {
-            background_image: "fire.gif",
+            background_image: "money.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You marry on of the King's children and became the wealthiest person in the world",
             choices: [
@@ -73,7 +73,7 @@ var game = {
             ]
         },
         deepWood: {
-            background_image: "fire.gif",
+            background_image: "forest.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You realized that you are in a huge forest and you don't know how to get out. Suddently, you heard some sound",
             choices: [
@@ -89,7 +89,7 @@ var game = {
         },
         
         aGirl: {
-            background_image: "fire.gif",
+            background_image: "forest2.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You saw a little girl fainted on the ground",
             choices: [
@@ -104,7 +104,7 @@ var game = {
             ]
         },
         companion: {
-            background_image: "fire.gif",
+            background_image: "girl.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "She woke up and saw you save her. The little girl want to give you something in return",
             choices: [
@@ -118,8 +118,8 @@ var game = {
                 }
             ]
         },
-        happy: {
-            background_image: "fire.gif",
+        happiness: {
+            background_image: "happy.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "She saw that you are a good person and sent you home. You became the happiest person in the world",
             choices: [
@@ -131,7 +131,7 @@ var game = {
             ]
         },
         death: {
-            background_image: "fire.gif",
+            background_image: "monster.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "A huge monster appeared out of nowhere",
             choices: [
@@ -142,7 +142,7 @@ var game = {
             ]
         },
         after: {
-            background_image: "fire.gif",
+            background_image: "eye.jpg",
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You are a soul now but you saw your body reforming and it move to where you first woke up at. Then \"you\" opened your eyes",
             choices: [
